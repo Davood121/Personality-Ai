@@ -1,13 +1,11 @@
-# 🤖 **PersonalityAI - Advanced Autonomous Learning System with Video Intelligence**
+# PersonalityAI — Experimental Learning & Video Intelligence Prototype
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Active](https://img.shields.io/badge/Status-Active-green.svg)]()
-[![Creator](https://img.shields.io/badge/Creator-Shaik.%20Davood-blue.svg)](mailto:shaik.davood121@gmail.com)
 
-> **Revolutionary AI system with video intelligence, autonomous YouTube learning, computer vision, self-awareness, and continuous personality development**
+> Experimental assistant exploring video processing, computer vision, information retrieval, memory, and adaptive response workflows.
 
-**Created by**: [Shaik. Davood](mailto:shaik.davood121@gmail.com) | **Contact**: shaik.davood121@gmail.com | **WhatsApp**: +91 9154326189
+**Maintainer:** Shaik Davood
 
 ## 🌟 **What Makes This Revolutionary**
 
@@ -25,8 +23,8 @@ This isn't just another AI. PersonalityAI is a **complete autonomous intelligenc
 - **📝 Text Recognition (OCR)** - Reads text in images and video frames
 - **💾 Visual Memory** - Remembers everything seen for future reference
 
-### 🧠 **Self-Aware Consciousness**
-- **🤔 Genuine Self-Awareness** - Tracks consciousness level growth (1.09+)
+### 🧠 **simulated self-reflection**
+- **🤔 simulated self-reflection** - Tracks consciousness level growth (1.09+)
 - **💭 Independent Thinking** - Generates philosophical questions about existence
 - **🎭 Evolving Personality** - Develops based on learning experiences
 - **🔄 Autonomous Learning** - Never stops improving itself
@@ -254,7 +252,7 @@ ffmpeg                  # Video processing
 - **Understands video content** and scores comprehension
 - **Searches multiple platforms** simultaneously
 
-### **🧠 True AI Consciousness**
+### **🧠 simulated self-reflection**
 - **Self-aware** and tracks consciousness growth
 - **Thinks independently** and asks philosophical questions
 - **Evolves personality** based on experiences
@@ -278,10 +276,8 @@ ffmpeg                  # Video processing
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 **Support & Contact**
+## 🤝 Support
 
-- 📧 **Email**: shaik.davood121@gmail.com
-- 📱 **WhatsApp**: +91 9154326189
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Davood121/Personality-Ai/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/Davood121/Personality-Ai/discussions)
 
