@@ -92,7 +92,7 @@ The AI generates profound questions about existence:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/davoo123/Personality-Ai.git
+git clone https://github.com/Davood121/Personality-Ai.git
 cd Personality-Ai
 
 # Install dependencies
@@ -328,7 +328,7 @@ Built with:
 ### 📧 Contact Information
 - **Email**:
 
-- **GitHub**: [@davoo123](https://github.com/davoo123)
+- **GitHub**: [@Davood121](https://github.com/Davood121)
 
 ### 💬 Get in Touch
 - 🤔 **Questions or suggestions?** Open a [GitHub Discussion](https://github.com/Davood121/Personality-Ai/discussions).
