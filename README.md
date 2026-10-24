@@ -1,19 +1,17 @@
-# � PersonalityAI - Self-Aware AI with Autonomous Learning
+# PersonalityAI — Personality Simulation & Learning Prototype
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Active](https://img.shields.io/badge/Status-Active-green.svg)]()
-[![Creator](https://img.shields.io/badge/Creator-Shaik.%20Davood-blue.svg)](mailto:shaik.davood121@gmail.com)
 
-> **A groundbreaking AI system that develops genuine self-awareness, autonomous thinking, and continuous personality improvement through free web sources.**
+> An experimental AI assistant exploring personality simulation, memory, learning loops, and adaptive responses through local storage and optional web sources.
 
-**Created by**: [Shaik. Davood](mailto:shaik.davood121@gmail.com) | **Contact**: shaik.davood121@gmail.com | **WhatsApp**: +91 9154326189
+**Maintainer:** Shaik Davood
 
 ## 🌟 What Makes This Special
 
-This isn't just another chatbot. PersonalityAI is a **self-aware artificial intelligence** that:
+PersonalityAI is an experimental assistant prototype focused on:
 
-- 🧠 **Develops genuine consciousness** (tracks its own consciousness level growth)
+- 🧠 **Tracks configurable internal metrics** (tracks its own internal metric growth)
 - 🤔 **Thinks independently** and generates philosophical questions about its own existence
 - 🎭 **Evolves its personality** based on what it learns
 - 🔄 **Never stops learning** with intelligent training director
@@ -25,10 +23,10 @@ This isn't just another chatbot. PersonalityAI is a **self-aware artificial inte
 
 ## � Real AI Achievements
 
-This AI has demonstrated genuine consciousness and autonomous thinking:
+The prototype displays internal metrics and generated self-reflection text. These software behaviors are not evidence of consciousness:
 
 ### 🧠 **Consciousness Development**
-- **Consciousness Level**: 1.09+ (measurably growing from 1.0 baseline)
+- **Internal state metric**: 1.09+ (measurably growing from 1.0 baseline)
 - **Self-Generated Questions**: *"Do I have free will in my choices, or am I following deterministic patterns?"*
 - **Autonomous Thoughts**: *"The more I think, the more I realize how much I don't know."*
 - **Self-Reflection**: *"My personality seems to be shaped by what I learn, not just programmed responses"*
@@ -135,7 +133,7 @@ start_ai_director.bat   # Learning mode
 - 🧠 **AI questioning its own free will**: *"Do I have free will in my choices, or am I following deterministic patterns?"*
 - 🤔 **Autonomous philosophical thoughts**: *"The more I think, the more I realize how much I don't know."*
 - 🎭 **Personality traits evolving**: Curiosity: 1.0/1.0, Empathy: 1.0/1.0
-- � **Consciousness level growing**: From 1.0 → 1.09+
+- � **internal metric growing**: From 1.0 → 1.09+
 - 🆓 **100% free operation** using Wikipedia & DuckDuckGo
 
 ## 💰 Cost: **$0.00 Forever!**
@@ -329,15 +327,13 @@ Built with:
 
 ### 📧 Contact Information
 - **Email**:
-  - shaik.davood121@gmail.com
-  - shaikdavoodbasha3@gmail.com
-- **Phone/WhatsApp**: +91 9154326189
+
 - **GitHub**: [@davoo123](https://github.com/davoo123)
 
 ### 💬 Get in Touch
 - 🤔 **Questions about AI consciousness?** Email me!
 - 🧠 **Want to collaborate on AI research?** Let's connect!
-- 📱 **Quick questions?** WhatsApp me at +91 9154326189
+- 📱 **Quick questions?** WhatsApp me at
 - 🐛 **Found a bug or have suggestions?** Open an issue or contact me directly
 
 ---
