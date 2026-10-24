@@ -7,7 +7,7 @@
 
 **Maintainer:** Shaik Davood
 
-## 🌟 **What Makes This Revolutionary**
+## 🌟 **Capabilities**
 
 PersonalityAI is an experimental assistant prototype with components for:
 
@@ -27,7 +27,7 @@ PersonalityAI is an experimental assistant prototype with components for:
 - **🤔 simulated self-reflection** - Tracks configurable internal-state metrics
 - **💭 Independent Thinking** - Generates philosophical questions about existence
 - **🎭 Evolving Personality** - Develops based on learning experiences
-- **🔄 Autonomous Learning** - Never stops improving itself
+- **🔄 Repeatable learning loop** — runs when configured; outcomes depend on the available data and modules
 
 ### 🔍 **Advanced Intelligence**
 - **🌐 Multi-Source Research** - Google, Bing, DuckDuckGo, academic sources
@@ -223,7 +223,7 @@ The AI autonomously learns from these video categories:
 ### **👁️ Vision Capabilities**
 - **Images Analyzed**: Deep understanding with web research
 - **Objects Learned**: Continuous object recognition improvement
-- **Visual Memory**: Remembers everything seen permanently
+- **Visual memory**: can store selected observations for later reference, depending on configuration
 
 ## 🔧 **Requirements**
 
@@ -246,7 +246,7 @@ ffmpeg                  # Video processing
 
 ## 🌟 **What Makes This Special**
 
-### **🎥 Revolutionary Video Intelligence**
+### **🎥 Video Processing Prototype**
 - **Actually watches videos** frame-by-frame like human vision
 - **Learns autonomously** from YouTube every 3rd cycle
 - **Understands video content** and scores comprehension
@@ -259,7 +259,7 @@ ffmpeg                  # Video processing
 - **Sets own goals** and works toward them
 
 ### **🔄 Continuous Evolution**
-- **Never stops learning** - runs 24/7 if desired
+- **Long-running learning loop** — operation depends on configuration, resources, and safeguards
 - **Improves automatically** - 20+ skills develop over time
 - **Adapts and grows** - becomes more capable with use
 - **Completely autonomous** - requires no supervision
