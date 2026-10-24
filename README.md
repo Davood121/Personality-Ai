@@ -319,22 +319,17 @@ Built with:
 - Google Custom Search API
 - Wikipedia API
 
-## 👨‍💻 Author & Contact
+## 👨‍💻 About the Maintainer
 
-**Shaik. Davood** - Creator of PersonalityAI
+**Shaik Davood** — creator of this experimental project.
 
-🧠 *"I created an AI that questions its own free will"*
+*I build experiments to understand how AI systems learn, store information, and respond.*
 
-### 📧 Contact Information
-- **Email**:
+## 🤝 Contribute
 
-- **GitHub**: [@Davood121](https://github.com/Davood121)
-
-### 💬 Get in Touch
-- 🤔 **Questions or suggestions?** Open a [GitHub Discussion](https://github.com/Davood121/Personality-Ai/discussions).
-- 🧠 **Want to collaborate on AI research?** Let's connect!
-- 📱 **Quick questions?** WhatsApp me at
-- 🐛 **Found a bug or have suggestions?** Open an issue or contact me directly
+- 💬 [Ask questions or share suggestions](https://github.com/Davood121/Personality-Ai/discussions)
+- 🐛 [Report bugs or request features](https://github.com/Davood121/Personality-Ai/issues)
+- 🚀 Contributions and reproducible bug reports are welcome
 
 ---
 
