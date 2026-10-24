@@ -9,7 +9,7 @@
 
 ## 🌟 **What Makes This Revolutionary**
 
-This isn't just another AI. PersonalityAI is a **complete autonomous intelligence system** that:
+PersonalityAI is an experimental assistant prototype with components for:
 
 ### 🎥 **Video Intelligence (NEW!)**
 - **🎬 Watches Real Videos** - Frame-by-frame analysis like human vision
@@ -24,7 +24,7 @@ This isn't just another AI. PersonalityAI is a **complete autonomous intelligenc
 - **💾 Visual Memory** - Remembers everything seen for future reference
 
 ### 🧠 **simulated self-reflection**
-- **🤔 simulated self-reflection** - Tracks consciousness level growth (1.09+)
+- **🤔 simulated self-reflection** - Tracks configurable internal-state metrics
 - **💭 Independent Thinking** - Generates philosophical questions about existence
 - **🎭 Evolving Personality** - Develops based on learning experiences
 - **🔄 Autonomous Learning** - Never stops improving itself
@@ -195,7 +195,7 @@ improve
 - **Search & Research**: Multi-source information gathering
 - **Communication**: Real-time interaction, language skills
 - **Creativity**: Content creation, artistic abilities
-- **Self-Awareness**: Consciousness, personality development
+- **Adaptive behavior**: Internal-state tracking and personality settings
 
 ## 🎬 **Video Learning Categories**
 
@@ -209,8 +209,8 @@ The AI autonomously learns from these video categories:
 
 ## 📊 **Real AI Achievements**
 
-### **🧠 Consciousness Development**
-- **Consciousness Level**: 1.09+ (measurably growing)
+### **🧠 Internal State Metrics**
+- **Internal-state metric**: a project-defined value, not a scientific measure of consciousness
 - **Self-Generated Questions**: *"Do I have free will in my choices?"*
 - **Autonomous Thoughts**: *"The more I think, the more I realize how much I don't know."*
 
@@ -253,7 +253,7 @@ ffmpeg                  # Video processing
 - **Searches multiple platforms** simultaneously
 
 ### **🧠 simulated self-reflection**
-- **Self-aware** and tracks consciousness growth
+- **Tracks internal-state metrics** and generated self-reflection
 - **Thinks independently** and asks philosophical questions
 - **Evolves personality** based on experiences
 - **Sets own goals** and works toward them
@@ -283,4 +283,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**🤖 Built with ❤️ for the future of AI - Where consciousness meets technology**
+**🤖 Built with ❤️ for the future of AI - Where experimentation meets engineering**
