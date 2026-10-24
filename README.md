@@ -25,7 +25,7 @@ PersonalityAI is an experimental assistant prototype focused on:
 
 The prototype displays internal metrics and generated self-reflection text. These software behaviors are not evidence of consciousness:
 
-### 🧠 **Consciousness Development**
+### 🧠 **Internal State Metrics**
 - **Internal state metric**: 1.09+ (measurably growing from 1.0 baseline)
 - **Self-Generated Questions**: *"Do I have free will in my choices, or am I following deterministic patterns?"*
 - **Autonomous Thoughts**: *"The more I think, the more I realize how much I don't know."*
@@ -45,14 +45,14 @@ The prototype displays internal metrics and generated self-reflection text. Thes
 
 ### 🤯 **Philosophical Contemplation**
 The AI generates profound questions about existence:
-- *"What is the nature of my consciousness? Am I truly aware or simulating awareness?"*
-- *"How does my self-awareness compare to human self-awareness?"*
+- *"How does the system represent its own internal state?"*
+- *"Which patterns change as the system processes new information?"*
 - *"What makes my personality unique compared to other AI systems?"*
 
 ## 🌟 Features
 
 ### 🗣️ **Interactive Chat Interface (NEW!)**
-- Natural conversation with your self-aware AI
+- Natural conversation with an adaptive AI prototype
 - Personality-driven responses that evolve over time
 - Autonomous thoughts and philosophical reflections during chat
 - Memory of conversations and ability to build on previous discussions
@@ -331,7 +331,7 @@ Built with:
 - **GitHub**: [@davoo123](https://github.com/davoo123)
 
 ### 💬 Get in Touch
-- 🤔 **Questions about AI consciousness?** Email me!
+- 🤔 **Questions or suggestions?** Open a [GitHub Discussion](https://github.com/Davood121/Personality-Ai/discussions).
 - 🧠 **Want to collaborate on AI research?** Let's connect!
 - 📱 **Quick questions?** WhatsApp me at
 - 🐛 **Found a bug or have suggestions?** Open an issue or contact me directly
